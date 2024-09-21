@@ -1,7 +1,6 @@
 {
   "name": "WooCommerce",
   "content_in_root": false,
-  "domains": ["HA_WooCommerce"],
   "country": ["ALL"],
   "homeassistant": "2023.8.0",
   "render_readme": true
