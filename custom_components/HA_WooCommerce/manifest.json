@@ -1,0 +1,13 @@
+{
+    "domain": "woocommerce",
+    "name": "WooCommerce",
+    "version": "1.0.0",
+    "documentation": "https://github.com/djiesr/ha_woocommerce",
+    "requirements": [
+      "requests>=2.25.1"
+    ],
+    "dependencies": [],
+    "codeowners": ["@djiesr"],
+    "config_flow": true
+  }
+  

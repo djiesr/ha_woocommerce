@@ -1,5 +1,5 @@
 {
-  "name": "WooCommerce Integration",
+  "name": "WooCommerce",
   "content_in_root": false,
   "domains": ["HA_WooCommerce"],
   "country": ["ALL"],
